@@ -73,7 +73,7 @@ Terraform solves these problems by treating infrastructure like source code.
 
 ---
 
-##Info and Note to self
+## Info and Note to self
 - terraform init downloads provider plugins.
 - .terraform should never be committed.
 - terraform.tfstate stores infrastructure state.
