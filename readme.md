@@ -53,7 +53,7 @@ terraform-azure-labs/
 | Week | Topic | Status |
 |-------|--------|--------|
 | Week 01 | Resource Groups | ✅ Completed |
-| Week 02 | Storage Account | 🔄 Planned |
+| Week 02 | Storage Account | ✅ Completed |
 | Week 03 | Virtual Network | 🔄 Planned |
 | Week 04 | Virtual Machine | 🔄 Planned |
 | Week 05 | Modules | 🔄 Planned |
