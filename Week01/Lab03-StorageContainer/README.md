@@ -6,6 +6,9 @@ Create an Azure Storage Container inside an existing Storage Account using Terra
 
 ## Architecture
 
+![Architecture](Architecture/architecture.png)
+
+
 Subscription
     │
     └── Resource Group
