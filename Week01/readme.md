@@ -6,6 +6,6 @@
 - ✅ Lab 02 – Storage Account
 - ✅ Lab 03 – Storage Container
 - ✅ Lab 04 – Blob Upload
-- ⏳ Lab 05 – Storage Queue
+- ✅ Lab 05 – Storage Queue
 - ⏳ Lab 06 – Storage Table
 - ⏳ Lab 07 – Remote State
