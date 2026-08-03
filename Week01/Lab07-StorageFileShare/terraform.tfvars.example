@@ -1,0 +1,5 @@
+resource_group_name = "rg-ai-platform-labs"
+
+storage_account_name = "ksanjeevpterraformlab001"
+
+share_name = "terraformfileshare"
