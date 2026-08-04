@@ -1,0 +1,5 @@
+resource_group_name = "rg-ai-platform-labs"
+
+storage_account_name = "storagelab002"
+
+policy_name = "lifecycle_policy"

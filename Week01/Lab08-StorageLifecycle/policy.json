@@ -1,0 +1,9 @@
+[
+  {
+    "name": "MoveToCool",
+    "enabled": true,
+    "prefix_match": ["logs/"],
+    "blob_types": ["blockBlob"],
+    "tier_to_cool_days": 30
+  }
+]
