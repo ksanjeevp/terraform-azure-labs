@@ -3,7 +3,7 @@
 This laboratory establishes the core isolated networking environment in Azure that will host all subsequent compute, security, and load-balancing services for Week 02.
 
 ## 🌐 Network Specifications
-*   **Resource Group:** `rg-week02-networking-prod`  #(your-rg-name )
+*   **Resource Group:** `rg-week02-networking-prod`  # (your-rg-name )
 *   **Virtual Network Name:** `vnet-core-prod`
 *   **Primary Address Space:** `10.0.0.0/16` (65,536 private IPs available for sub-allocation)
 
