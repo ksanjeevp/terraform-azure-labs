@@ -36,6 +36,20 @@ Why every Azure resource needs networking
 Terraform resource dependencies
 
 ```
+## Week 02 – Progress- Azure Networking
+```text
+✅ Lab01 – Virtual Network
+⏳ Lab02 – Subnet (Tomorrow)
+⏳ Lab03 – NSG
+⏳ Lab04 – NSG Association
+⏳ Lab05 – Route Tables
+⏳ Lab06 – Peering
+⏳ Lab07 – Private Endpoint
+⏳ Lab08 – Bastion
+⏳ Lab09 – DNS
+⏳ Lab10 – Network Watcher
+
+```
 ## Environment 
 
 ```text
