@@ -13,24 +13,22 @@
 - ✅ Lab 09 – Static Website Hosting
 - ✅ Lab 10 – AzureS torage Security
 
-## Directory Structure 
+## Directory Structure
 
-terraform-azure-labs
-│
-├── Week01
-│   ├── Lab01-ResourceGroup
-│   ├── Lab02-StorageAccount
-│   ├── Lab03-StorageContainer
-│   ├── Lab04-BlobUpload
-│   ├── Lab05-StorageQueue
-│   ├── Lab06-StorageTable
-│   ├── Lab07-StorageFileShare
-│   ├── Lab08-StorageLifecycle
-│   ├── Lab09-StaticWebsiteHosting
-│   └── Lab10-AzureStorageSecurity
-│
+```text
+terraform-azure-labs/
+├── Week01/
+│   ├── Lab01-ResourceGroup/
+│   ├── Lab02-StorageAccount/
+│   ├── Lab03-StorageContainer/
+│   ├── Lab04-BlobUpload/
+│   ├── Lab05-StorageQueue/
+│   ├── Lab06-StorageTable/
+│   ├── Lab07-StorageFileShare/
+│   ├── Lab08-StorageLifecycle/
+│   ├── Lab09-StaticWebsiteHosting/
+│   └── Lab10-AzureStorageSecurity/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
-##
+```
