@@ -1,0 +1,12 @@
+resource_group_name = "rg-ai-platform" # (Your Actual RG Name)
+
+virtual_network_name = "vnet-ai-platform-lab" # (Actual virtual_network_name)
+
+location = ""
+
+address_space  = ["10.0.0.0/16"] 
+
+
+
+
+
