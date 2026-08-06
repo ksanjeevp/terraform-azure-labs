@@ -31,9 +31,27 @@ terraform-azure-labs/
 
 │
 ├── Week01/
-│   └── Lab01-ResourceGroup/
-│
-├── Week02/
+│   ├── Lab01-ResourceGroup/
+│   ├── Lab02-StorageAccount/
+│   ├── Lab03-StorageContainer/
+│   ├── Lab04-BlobUpload/
+│   ├── Lab05-StorageQueue/
+│   ├── Lab06-StorageTable/
+│   ├── Lab07-StorageFileShare/
+│   ├── Lab08-StorageLifecycle/
+│   ├── Lab09-StaticWebsiteHosting/
+│   └── Lab10-AzureStorageSecurity/
+└── Week02/
+    ├── Lab01-VirtualNetwork/
+    ├── Lab02-Subnet/
+    ├── Lab03-NetworkSecurityGroup/
+    ├── Lab04-NSGRules/
+    ├── Lab05-NSGAssociation/
+    ├── Lab06-PublicIP/
+    ├── Lab07-NetworkInterface/
+    ├── Lab08-VirtualMachine/
+    ├── Lab09-Bastion/
+    └── Lab10-LoadBalancer/
 ├── Week03/
 ├── Week04/
 │
